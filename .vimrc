@@ -147,6 +147,3 @@ autocmd FileType make set shiftwidth=4 tabstop=4 expandtab
 autocmd FileType tex set tabstop=2 shiftwidth=2 noexpandtab
 autocmd FileType vhdl set tabstop=2 shiftwidth=2
 autocmd FileType coq set tabstop=2 shiftwidth=2 expandtab
-
-set clipboard&
-set clipboard^=unnamedplus
