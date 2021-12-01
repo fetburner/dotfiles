@@ -13,8 +13,6 @@ NeoBundleFetch 'Shougo/neobundle.vim'
 
 " Let NeoBundle manage NeoBundle
 NeoBundle 'def-lkb/vimbufsync'
-" NeoBundle 'vim-scripts/c.vim'
-NeoBundle 'tpope/vim-fugitive'
 NeoBundle 'Shougo/vimshell'
 NeoBundle 'Shougo/neocomplete'
 NeoBundle 'Shougo/unite.vim'
